@@ -1,0 +1,8 @@
+google-api-python-client
+pandas
+numpy
+nltk
+emoji
+scikit-learn
+matplotlib
+seaborn
